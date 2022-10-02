@@ -3,7 +3,7 @@
 <table style="width:100%">
   <tr>
     <th>Column</th>
-    <th>Attribute</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>show_id</td>
@@ -53,3 +53,13 @@
 <li>Analysis</li>
 <li>Visualization</li>
 </ol>
+
+## How to contribute 
+Check out our [Contributing Documentation](https://github.com/CMPN-CODECELL/URL-Shortener/blob/main/CONTRIBUTING.md) 
+### Note
+1. First create issue for the task which you would like to contribute to by explaining your approach in it.
+2. Project maintatiners will assign the issue to you if it's worthy and not repeated.
+3. While creating pull request mention the issue number in it.
+
+### Note 
+You can upload Jupyter notebook as well as googlecollab file
